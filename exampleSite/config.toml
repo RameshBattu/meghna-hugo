@@ -1,4 +1,4 @@
-baseURL = "https://rameshbattu.ml"
+baseURL = "https://rameshbattu.netlify.com"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
