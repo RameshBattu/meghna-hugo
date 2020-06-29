@@ -8,13 +8,13 @@ skill:
     sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
   image: images/about/company-growth.webp
   skill_item:
-  - name: Business Development
-    percent: 90%
   - name: Analysis
     percent: 80%
+  - name: Business Development
+    percent: 90%
   - name: Design
     percent: 80%
-  - name: IOS Development
+  - name: Problem-solving and troubleshooting,
     percent: 95%
   - name: Android Development
     percent: 75%
